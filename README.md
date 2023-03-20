@@ -1,12 +1,12 @@
-# JavaScript Password Generator
+# Random Password Gen
 
-Random password gnerator webpage
+Random password generator webpage
 
 # Mock-up
 ![_C__Users_juste_Desktop_bootcamp_projects_week-3-javascript_index html](https://user-images.githubusercontent.com/55112932/226471714-84de92e7-e21a-4767-9a68-37a7f41a7418.png)
 
 # Link to live site
-[Random Password Generator]
+[Random Password Generator](https://frostyfaust.github.io/Random-Password-Gen/)
 
 ## Why I made this site
 I created this site so that i could display my skills using Javcascript. While utilizing this webpage, the user will be able to click the generate button and will be met with prompts asking how long they wish their password to be and what criteria they would like to include. Once the criteria is filled out, the website will generate a new password for the user using their corresponding criterias. Lastly, the user will be able to click the "copy" button and have the new password copied to their clipboard to have a more user-friendly interface.
